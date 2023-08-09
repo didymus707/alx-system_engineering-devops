@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($test+2432))"
+echo "$((128+$TRUEKNOWLEDGE))"
